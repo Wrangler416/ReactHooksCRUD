@@ -124,7 +124,7 @@ function sendTweet(tweet) {
               .then(response => sendTweet(response.data))
               .catch(error => console.log(error))
               
-              } } >Post your tweet!</button>
+              } } >Post you tweet!</button>
         
 
     </div>
